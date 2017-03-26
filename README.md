@@ -9,7 +9,7 @@
 <style>
 html,body,h1,h2,h3,h4,h5,h6 {font-family: "Roboto", sans-serif}
 </style>
-<body style="background:url(พื้นหลัง.jpg)">
+<body style="background:url(ดอกไม้.JPG)">
 
 <!-- Page Container -->
 <div class="w3-content w3-margin-top" style="max-width:1400px;">
@@ -75,7 +75,7 @@ html,body,h1,h2,h3,h4,h5,h6 {font-family: "Roboto", sans-serif}
       <div class="w3-container w3-card-2 w3-white w3-margin-bottom">
       <h2 class="w3-text-black w3-padding-16"><i class="fa fa-suitcase fa-fw w3-margin-right w3-xxlarge w3-text-teal"></i>About Me</h2>
       <div class="w3-container">
-      <img src="เฟิน.jpg" alt="me" style="width:100%">
+      <img src="เฟิน.JPG" alt="me" style="width:100%">
           <h5 class="w3-opacity w3-black w3-center"><b>Birthday</b></h5>
           <h6 class="w3-text-teal"><i class="fa fa-calendar fa-fw w3-margin-right"></i>26 April 1197</h6>
           <p> 20 years old</p>
