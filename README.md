@@ -62,7 +62,11 @@ html,body,h1,h2,h3,h4,h5,h6 {font-family: "Roboto", sans-serif}
           <div class="w3-light-black w3-round-xlarge">
             <div class="w3-round-xlarge w3-teal" style="height:24px;width:100%"></div>
           </div>
-          <br>
+         <br>
+         <hr>
+         <p><a href="https://www.facebook.com">Facebook</a></p>
+         <p><a href="https://www.google.com">google</a></p>
+        <br>
         </div>
       </div><br>
 
@@ -87,7 +91,7 @@ html,body,h1,h2,h3,h4,h5,h6 {font-family: "Roboto", sans-serif}
           <hr>
         </div>
        <div class="w3-container w3-card-2 w3-white">
-      <img src="กาตูน.png" alt="me" style="width:110%">
+      <img src="กาตูน.png" alt="me" style="width:50%">
         
 
   <!-- End Right Column -->
