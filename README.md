@@ -28,27 +28,27 @@ html,body,h1,h2,h3,h4,h5,h6 {font-family: "Roboto", sans-serif}
           </div>
         </div>
         <div class="w3-container">
-          <p><i class="fa fa-briefcase fa-fw w3-margin-right w3-large w3-text-green"></i>stndent</p>
-          <p><i class="fa fa-home fa-fw w3-margin-right w3-large w3-text-green"></i>Hatyai, Thailand</p>
-          <p><i class="fa fa-envelope fa-fw w3-margin-right w3-large w3-text-green"></i>fernfernot@gmail.com</p>
-          <p><i class="fa fa-phone fa-fw w3-margin-right w3-large w3-text-green"></i>0894688112</p>
+          <p><i class="fa fa-briefcase fa-fw w3-margin-right w3-large w3-text-red"></i>stndent</p>
+          <p><i class="fa fa-home fa-fw w3-margin-right w3-large w3-text-red"></i>Hatyai, Thailand</p>
+          <p><i class="fa fa-envelope fa-fw w3-margin-right w3-large w3-text-red"></i>fernfernot@gmail.com</p>
+          <p><i class="fa fa-phone fa-fw w3-margin-right w3-large w3-text-red"></i>0894688112</p>
           <hr>
 
           <p class="w3-large"><b><i class="fa fa-certificate fa-fw w3-margin-right w3-text-teal"></i>Skills</b></p>
           <p>Calculate</p>
           <div class="w3-light-black w3-round-xlarge w3-small">
-            <div class="w3-container w3-center w3-round-xlarge w3-teal" style="width:90%">90%</div>
+            <div class="w3-container w3-center w3-round-xlarge w3-pale-pink" style="width:90%">90%</div>
             
           </div>
           <p>Acting</p>
           <div class="w3-light-black w3-round-xlarge w3-small">
-            <div class="w3-container w3-center w3-round-xlarge w3-teal" style="width:80%">
+            <div class="w3-container w3-center w3-round-xlarge w3-pale-pink" style="width:80%">
               <div class="w3-center w3-text-white">80%</div>
             </div>
           </div>
           <p>Media</p>
           <div class="w3-light-black w3-round-xlarge w3-small">
-            <div class="w3-container w3-center w3-round-xlarge w3-teal" style="width:75%">75%</div>
+            <div class="w3-container w3-center w3-round-xlarge w3-pale-pink" style="width:75%">75%</div>
           </div>
           <br>
 
