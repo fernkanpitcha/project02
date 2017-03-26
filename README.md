@@ -87,7 +87,7 @@ html,body,h1,h2,h3,h4,h5,h6 {font-family: "Roboto", sans-serif}
           <hr>
         </div>
        <div class="w3-container w3-card-2 w3-white">
-      <img src="กาตูน1.jpg" alt="me" style="width:110%">
+      <img src="กาตูน.png" alt="me" style="width:110%">
         
 
   <!-- End Right Column -->
