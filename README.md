@@ -24,7 +24,7 @@ html,body,h1,h2,h3,h4,h5,h6 {font-family: "Roboto", sans-serif}
         <div class="w3-display-container">
           <img src="2.jpg" style="width:100%" alt="Avatar">
           <div class="w3-display-bottomleft w3-container w3-text-black">
-            <h2>KANPITCHA</h2>
+            <h2><FONT COLOR=#FFFFFF>KANPITCHA</FONT></h2>
           </div>
         </div>
         <div class="w3-container">
@@ -38,7 +38,7 @@ html,body,h1,h2,h3,h4,h5,h6 {font-family: "Roboto", sans-serif}
           <p>Adobe Photoshop</p>
           <div class="w3-light-grey w3-round-xlarge w3-small">
             <div class="w3-container w3-center w3-round-xlarge w3-teal" style="width:90%">90%</div>
-            <h2><FONT COLOR=#FFFFFF>KANPITCHA</FONT></h2>
+            
           </div>
           <p>Photography</p>
           <div class="w3-light-grey w3-round-xlarge w3-small">
