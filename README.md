@@ -79,10 +79,10 @@ html,body,h1,h2,h3,h4,h5,h6 {font-family: "Roboto", sans-serif}
           <h5 class="w3-opacity w3-black w3-center"><b>Birthday</b></h5>
           <h6 class="w3-text-teal"><i class="fa fa-calendar fa-fw w3-margin-right"></i>26 April 1197</h6>
           <p> 20 years old</p>
-          <h5 class="w3-opacity w3-black w3-center"><b>History of education</b></h5>
+          <h5 class="w3-opacity w3-black w3-center"><b>Studying</b></h5>
           <h6 class="w3-text-teal"><i class="fa fa-calendar fa-fw w3-margin-right"></i>I Studying Prince of Songkla University</h6>
           <p>Information System</p>
-          <h5 class="w3-opacity w3-black w3-center"><b>Birthday</b></h5>
+          <h5 class="w3-opacity w3-black w3-center"><b>History of education</b></h5>
           <p>Hatyai, Thailand</p>
           <hr>
         </div>
