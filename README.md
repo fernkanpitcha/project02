@@ -73,12 +73,14 @@ html,body,h1,h2,h3,h4,h5,h6 {font-family: "Roboto", sans-serif}
     <div class="w3-twothird">
     
       <div class="w3-container w3-card-2 w3-white w3-margin-bottom">
-  <h1 class="w3-text-grey w3-padding-16"><i class="fa fa-certificate fa-fw w3-margin-right w3-xxlarge w3-text-teal"></i>About me</h1>
+ 
         <div class="w3-container">
+         <h5 class="w3-opacity w3-black w3-center"><b>About me</b></h5>
          <img sre="เฟิน.jpg" alt="me" style="width:50%">
-         <h5 class="w3-opacity w3-black w3-center"><b>Birthday</b></h5>
-         <h6 class="w3-text-teal"><i class="fa fa-calender fa-fw w3-margin-right"></i>26 April 1997</h6> 
+         <h6 class="w3-text-teal"><i class="fa fa-calender fa-fw w3-margin-right"></i>Birthday 26 April 1997</h6> 
          <p>Now 20 years old</p>
+         <p>I study Prince of Songkla University </p>
+         <p>Information System</p>
          <hr>
          </div>
           
