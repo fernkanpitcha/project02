@@ -28,10 +28,10 @@ html,body,h1,h2,h3,h4,h5,h6 {font-family: "Roboto", sans-serif}
           </div>
         </div>
         <div class="w3-container">
-          <p><i class="fa fa-briefcase fa-fw w3-margin-right w3-large w3-text-teal"></i>stndent</p>
-          <p><i class="fa fa-home fa-fw w3-margin-right w3-large w3-text-teal"></i>Hatyai, Thailand</p>
-          <p><i class="fa fa-envelope fa-fw w3-margin-right w3-large w3-text-teal"></i>fernfernot@gmail.com</p>
-          <p><i class="fa fa-phone fa-fw w3-margin-right w3-large w3-text-teal"></i>0894688112</p>
+          <p><i class="fa fa-briefcase fa-fw w3-margin-right w3-large w3-text-green"></i>stndent</p>
+          <p><i class="fa fa-home fa-fw w3-margin-right w3-large w3-text-green"></i>Hatyai, Thailand</p>
+          <p><i class="fa fa-envelope fa-fw w3-margin-right w3-large w3-text-green"></i>fernfernot@gmail.com</p>
+          <p><i class="fa fa-phone fa-fw w3-margin-right w3-large w3-text-green"></i>0894688112</p>
           <hr>
 
           <p class="w3-large"><b><i class="fa fa-certificate fa-fw w3-margin-right w3-text-teal"></i>Skills</b></p>
