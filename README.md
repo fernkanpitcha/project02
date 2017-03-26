@@ -124,11 +124,9 @@ html,body,h1,h2,h3,h4,h5,h6 {font-family: "Roboto", sans-serif}
 </div>
 
 <footer class="w3-container w3-teal w3-center w3-margin-top">
-	<div class="w3-third">
-	<img src="กาตูน.png" style="width:100%">
-	</div>
   
-  <p>Find me on social media.</p>
+  
+<p>Find me on social media.</p>
   <i class="fa fa-facebook-official w3-hover-opacity"></i>
   <i class="fa fa-instagram w3-hover-opacity"></i>
   <i class="fa fa-snapchat w3-hover-opacity"></i>
